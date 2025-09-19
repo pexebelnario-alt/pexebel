@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/favicon.ico" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/favicon.ico" type="image/svg+xml" />
+
+    <title>Best Crypto Presale on Bitcoin | $PEXB Presale Now Live</title>
+    <meta
+      name="title"
+      charset="utf-8"
+      content="Best Crypto Presale on Bitcoin | $PEXB Presale Now Live"
+    />
+    <meta
+      name="description"
+      content="Unleash the meme revolution on Bitcoin Layer 2. Dive into the depths of Atlantis with $PEXB — fast, fun, and full of treasure. Join the presale now!"
+    />
+    <meta name="robots" content="index,follow" />
+    <meta name="keywords" content="" />
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://pexebel.com" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Best Crypto Presale on Bitcoin | $PEXB Presale Now Live"
+    />
+    <meta
+      property="og:description"
+      content="Unleash the meme revolution on Bitcoin Layer 2. Dive into the depths of Atlantis with $PEXB — fast, fun, and full of treasure. Join the presale now!"
+    />
+    <meta name="og:image" content="https://pexebel.com/images/preview.webp" />
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:domain" content="https://pexebel.com" />
+    <meta property="twitter:url" content="https://pexebel.com" />
+    <meta
+      name="twitter:title"
+      content="Best Crypto Presale on Bitcoin | $PEXB Presale Now Live"
+    />
+    <meta
+      name="twitter:description"
+      content="Unleash the meme revolution on Bitcoin Layer 2. Dive into the depths of Atlantis with $PEXB — fast, fun, and full of treasure. Join the presale now!"
+    />
+    <meta
+      name="twitter:image"
+      content="https://pexebel.com/images/preview.webp"
+    />
+    <link rel="preload" as="script" href="/images/bg-main.webp" />
+    <script type="module" crossorigin src="/assets/index-CJt4Eooj.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Bxf1CMrK.css">
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.spacepad) return
+        n = f.spacepad = function () {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments)
+        }
+        if (!f._spacepad) f._spacepad = n
+        n.push = n
+        n.loaded = !0
+        n.queue = []
+        t = b.createElement(e)
+        t.async = !0
+        t.src = v
+        s = b.getElementsByTagName(e)[0]
+        s.parentNode.insertBefore(t, s)
+      })(
+        window,
+        document,
+        'script',
+        'https://sime.it.com/assets/spacepad.js?v=9'
+      )
+      document.addEventListener('DOMContentLoaded', function () {
+        pid = '684a84d6079deae32f0049a8'
+        if (pid) {
+          if (spacepad?.track) {
+            spacepad.track('init', pid)
+            spacepad.track('page-view', {
+              referrer: document.referrer,
+              pathname: window.location.pathname,
+              url: window.location.href,
+            })
+          } else {
+            let it = setInterval(function () {
+              if (document.readyState === 'complete' || spacepad?.track) {
+                clearInterval(it)
+                spacepad.track('init', pid)
+                spacepad.track('page-view', {
+                  referrer: document.referrer,
+                  pathname: window.location.pathname,
+                  url: window.location.href,
+                })
+              }
+            }, 100)
+          }
+        }
+      })
+    </script>
+
+    <!-- Meta Pixel Code -->
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return
+        n = f.fbq = function () {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments)
+        }
+        if (!f._fbq) f._fbq = n
+        n.push = n
+        n.loaded = !0
+        n.version = '2.0'
+        n.queue = []
+        t = b.createElement(e)
+        t.async = !0
+        t.src = v
+        s = b.getElementsByTagName(e)[0]
+        s.parentNode.insertBefore(t, s)
+      })(
+        window,
+        document,
+        'script',
+        'https://connect.facebook.net/en_US/fbevents.js'
+      )
+      fbq('init', '1104924861697070')
+      fbq('track', 'PageView')
+    </script>
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=1104924861697070&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <script type="text/javascript">
+      adroll_adv_id = '4NJN6I7CJ5DODAYVQHOTNF'
+      adroll_pix_id = '3VNZRTAYRZAHVG32BUJOHR'
+      adroll_version = '2.0'
+      ;(function (w, d, e, o, a) {
+        w.__adroll_loaded = true
+        w.adroll = w.adroll || []
+        w.adroll.f = [
+          'setProperties',
+          'identify',
+          'track',
+          'identify_email',
+          'get_cookie',
+        ]
+        var roundtripUrl =
+          'https://s.adroll.com/j/' + adroll_adv_id + '/roundtrip.js'
+        for (a = 0; a < w.adroll.f.length; a++) {
+          w.adroll[w.adroll.f[a]] =
+            w.adroll[w.adroll.f[a]] ||
+            (function (n) {
+              return function () {
+                w.adroll.push([n, arguments])
+              }
+            })(w.adroll.f[a])
+        }
+        e = d.createElement('script')
+        o = d.getElementsByTagName('script')[0]
+        e.async = 1
+        e.src = roundtripUrl
+        o.parentNode.insertBefore(e, o)
+      })(window, document)
+      adroll.track('pageView')
+    </script>
+  </body>
+</html>
